@@ -7,3 +7,71 @@
     font-family: 'DM Sans', sans-serif;                                      
   }
 }
+
+.bg-primary {
+  @apply bg-[#EEEFF0];
+}
+
+.bg-secondary {
+  @apply bg-[#F99F1C];
+}
+
+.bg-secondary-small {
+  @apply bg-[#FD9460];
+}
+
+.bg-profile-icon {
+  @apply bg-[#FD6011];
+}
+
+.bg-icon {
+  @apply bg-[#FC6011];
+}
+
+.text-focus {
+  @apply text-[#FC6011];
+}
+
+.text-icon {
+  @apply text-[#FC6011];
+}
+
+.text-heading-primary {
+  @apply text-[#FFEFE7] text-4xl font-bold;
+}
+
+.text-heading-secondary {
+  @apply text-[#E7E9EC] text-2xl;
+}
+
+.text-menu-primary {
+  @apply text-[#11263C] font-bold uppercase;
+}
+
+.text-menu-secondary {
+  @apply text-[#415163];
+}
+
+.text-menu-focus {
+  @apply text-[#415163] bg-[#E7E9EC];
+}
+
+.text-placeholder {
+  @apply text-[#4A4A4A];
+}
+
+.text-category {
+  @apply text-[#0C1B2B] text-2xl;
+}
+
+.text-food {
+  @apply text-[#415163];
+}
+
+.text-slogan {
+  @apply text-[#221314] font-bold;
+}
+
+
+
+
