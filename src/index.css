@@ -53,11 +53,11 @@
 }
 
 .text-heading-secondary {
-  @apply text-[#E7E9EC] text-2xl;
+  @apply text-[#E7E9EC] text-xl;
 }
 
 .text-heading-secondary-small {
-  @apply text-[#11263C] ;
+  @apply text-[#11263C];
 }
 
 .text-menu-primary {
