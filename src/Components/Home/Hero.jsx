@@ -12,10 +12,7 @@ const Hero = () => {
           </p>
         </div>
         <div className="mx-auto">
-          <img
-            src={banner}
-            alt="banner"
-          />
+          <img src={banner} alt="banner" />
         </div>
       </div>
     );

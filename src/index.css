@@ -13,11 +13,7 @@
 }
 
 .bg-secondary {
-  @apply bg-[#F99F1C];
-}
-
-.bg-secondary-small {
-  @apply bg-[#FD9460];
+  @apply bg-[#FD9460] sm:bg-[#F99F1C];
 }
 
 .bg-profile-icon {
