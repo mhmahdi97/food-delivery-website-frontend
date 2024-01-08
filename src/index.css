@@ -28,6 +28,14 @@
   @apply bg-[#FC6011];
 }
 
+.bg-menu {
+  @apply bg-[#FEFEFE];
+}
+
+.menu-active {
+  @apply bg-[#E7E9EC] text-[#FC6011];
+}
+
 .text-focus {
   @apply text-[#FC6011];
 }
@@ -40,8 +48,16 @@
   @apply text-[#FFEFE7] text-4xl font-bold;
 }
 
+.text-heading-primary-small {
+  @apply text-[#11263C] text-3xl font-bold;
+}
+
 .text-heading-secondary {
   @apply text-[#E7E9EC] text-2xl;
+}
+
+.text-heading-secondary-small {
+  @apply text-[#11263C] ;
 }
 
 .text-menu-primary {
